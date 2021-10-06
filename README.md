@@ -1,15 +1,9 @@
 # Marcelo Motta de Mattos
 
-  <blockquote>
-Hi there, I'm a full-stack software developer from Brazil, with more than 17 years of experience.
-  </blockquote>
-
 <div align="center">
 Career in technology solutions for business,
 passionate about innovation and technology.
 </div>
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelomms/)](https://www.linkedin.com/in/marcelomms/)
 
 
 <div align="center">
@@ -26,6 +20,12 @@ passionate about innovation and technology.
   <img align="center" alt="Marcelo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Marcelo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
+
+  <blockquote>
+Hi there, I'm a full-stack software developer from Brazil, with more than 17 years of experience.
+  </blockquote>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelomms/)](https://www.linkedin.com/in/marcelomms/)
 
   
 <div align="end">
