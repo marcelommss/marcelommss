@@ -5,9 +5,11 @@ Career in technology solutions for business,
 passionate about innovation and technology.
 </div>
 
-<br>
+###
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelomms/)](https://www.linkedin.com/in/marcelomms/)
-<br>
+
+###
 
 <div align="center">
   <a href="https://github.com/marcelommss" />
