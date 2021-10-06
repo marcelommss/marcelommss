@@ -19,7 +19,7 @@
 
 ### Hi there 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Marcelo%20Matos-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelommss/)](https://www.linkedin.com/in/diego-schell-fernandes/)
+[![Linkedin Badge](https://img.shields.io/badge/-Marcelo%20Matos-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelommss/)](https://www.linkedin.com/in/marcelommss/)
 
 
 <!--
