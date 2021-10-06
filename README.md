@@ -7,10 +7,6 @@ passionate about innovation and technology.
 
 ###
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelomms/)](https://www.linkedin.com/in/marcelomms/)
-
-###
-
 <div align="center">
   <a href="https://github.com/marcelommss" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelommss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -32,3 +28,7 @@ passionate about innovation and technology.
 <div align="end">
   ...<strong>Coding the future</strong>
 </div>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelomms/)](https://www.linkedin.com/in/marcelomms/)
+
+###
