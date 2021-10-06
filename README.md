@@ -7,6 +7,13 @@ passionate about innovation and technology.
 
 ###
 
+
+<div align="center">
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelomms/)](https://www.linkedin.com/in/marcelomms/)
+</div>
+
+###
+
 <div align="center">
   <a href="https://github.com/marcelommss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelommss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -23,12 +30,8 @@ passionate about innovation and technology.
 </div>
   
 ###
-  <blockquote>
-Hi there, I'm a full-stack software developer from Brazil, with more than 17 years of experience.
-  </blockquote>
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelomms/)](https://www.linkedin.com/in/marcelomms/)
-
+###
+  
   
 <div align="end">
   ...<strong>Coding the future</strong>
