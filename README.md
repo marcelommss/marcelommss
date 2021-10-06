@@ -5,6 +5,7 @@ Career in technology solutions for business,
 passionate about innovation and technology.
 </div>
 
+###
 
 <div align="center">
   <a href="https://github.com/marcelommss">
@@ -20,7 +21,8 @@ passionate about innovation and technology.
   <img align="center" alt="Marcelo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Marcelo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-
+  
+###
   <blockquote>
 Hi there, I'm a full-stack software developer from Brazil, with more than 17 years of experience.
   </blockquote>
