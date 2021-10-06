@@ -1,6 +1,14 @@
 # Marcelo Motta de Mattos
 
-...Coding the future
+Hi there, I'm a full-stack software developer from Brazil, with more than 17 years of experience.
+
+<div align="center">
+Career in technology solutions for business,
+passionate about innovation and technology.
+</div>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelomms/)](https://www.linkedin.com/in/marcelomms/)
+
 
 <div align="center">
   <a href="https://github.com/marcelommss">
@@ -17,21 +25,4 @@
   <img align="center" alt="Marcelo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-### Hi there 👋
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelommss/)](https://www.linkedin.com/in/marcelommss/)
-
-
-<!--
-**marcelommss/marcelommss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+...Coding the future
