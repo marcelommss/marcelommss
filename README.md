@@ -3,7 +3,7 @@
 ...Coding the future
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/marcelommss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelommss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelommss&layout=compact&langs_count=7&theme=dracula"/>
 </div>
@@ -19,7 +19,7 @@
 
 ### Hi there 👋
 
-![Linkedin Badge](https://img.shields.io/badge/-Marcelo%20Matos-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelommss/)
+[![Linkedin Badge](https://img.shields.io/badge/-Marcelo%20Matos-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelommss/)](https://www.linkedin.com/in/diego-schell-fernandes/)
 
 
 <!--
