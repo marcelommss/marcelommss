@@ -18,8 +18,7 @@
 </div>
 
 ### Hi there 👋
-
-[![Linkedin Badge](https://img.shields.io/badge/-Marcelo%20Matos-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelommss/)](https://www.linkedin.com/in/marcelommss/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelommss/)](https://www.linkedin.com/in/marcelommss/)
 
 
 <!--
