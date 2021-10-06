@@ -1,6 +1,8 @@
 # Marcelo Motta de Mattos
 
+  <blockquote>
 Hi there, I'm a full-stack software developer from Brazil, with more than 17 years of experience.
+  </blockquote>
 
 <div align="center">
 Career in technology solutions for business,
@@ -27,7 +29,5 @@ passionate about innovation and technology.
 
   
 <div align="end">
-  <blockquote>
   ...<strong>Coding the future</strong>
-  </blockquote>
 </div>
